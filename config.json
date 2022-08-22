@@ -1,0 +1,18 @@
+{ 
+  "DefaltColor": "White",
+  "QuestColor": "GoldYellow",
+  "RareColor": "Yellow",
+  "CraftedColor": "Orange",
+  "TemperedColor": "DarkGreen",
+  "MagicColor": "Blue",
+  "SetColor": "Green",
+  "UniqueColor": "GoldYellow",
+  "SocketedColor": "Gray",
+  "EtherealColor": "LightTeal",
+  "HealthPotionColor": "LightRed",
+  "ManaPotionColor": "LightBlue",
+  "RejuvPotionColor": "LightPurple",
+  "GoldColor": "CurrencyGold",
+  "RuneColor": "Orange",
+  "EventItemsColor": "Orange",
+}
